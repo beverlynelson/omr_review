@@ -1,6 +1,6 @@
 #OMR Review
 
-Testing out curriculum & tutorials for HS students and RB alumni
+Testing out [One Month Rails](http://www.onemonthrails.com/) curriculum & tutorials for HS students and RB alumni
 
 ##Assessment
 
@@ -11,7 +11,11 @@ Testing out curriculum & tutorials for HS students and RB alumni
 * Don't go it alone: @Rubyfriends if you choose to do this, pair up with a more seasoned ruby dev in the group to help you out.  If you hit a glitch or if there is something you need explained in depth seek us out.  There are several places that something could go wrong and I don't want you to be frustrated.  
 Reach out and ask.
 
-* Timeframe: Total time for me was about 4 hours and I just coded while the video played, I skipped some of the ends of the videos especially at the intro but they would be good for beginners to listen to if you choose to do this. One month should be sufficient to follow along. Railsbridge is usually finished over the course of 1 evening and 1 day so a month is doable.
+* Timeframe: Total time for me was about 4 hours and I just coded while the video played, I skipped some of the ends of the videos especially at the intro but they would be good for beginners to listen to if you choose to do this. One month should be sufficient to follow along. Railsbridge is usually finished over the course of 1 evening and 1 day so a month is doable. 
+
+* No Limit: One plus is that it's not recurring and you are not limited to the one month to complete the course.  If it takes a little longer that's ok.  
+
+* No Tests:  There are no tests in here.  We don't introduce testing in Railsbridge either but it's something to mention for seasoned TDD developers who may be wondering. 
 
 * What if I want to be a developer?  If you decided to take the course and it interests you, then you need to connect with a Ruby developer or send me a message if you can't find one. If you are looking for a great place to go to learn to become a developer in a relatively short time frame, I can't recommend something like [gschool](http://www.gschool.it/) enough.  
 
@@ -26,9 +30,9 @@ If $49 is a stretch get in touch with me or one of the [Ruby Friends](http://www
 
 ## Will I do this with the HS Students? 
 
-Well, more than likely no.  This is probably intended for adults anyway and most of the HS parents struggle to understand the need to learn web development much less paying $49.  
+Well, more than likely no.  This is probably intended for adults anyway and most of the HS parents struggle to understand the need to learn web development, much less paying $49.  
 
-I have more than a month with HS students, they are not looking for careers yet, and he drops an f-bomb in there.  (Sorry that's a huge no-can-do with the kiddos) For their foundation I will probably continue to use [Jumpstart](http://www.jumpstartlab.com) and the Railsbridge curriculum as my core for them. They still start with a Ruby foundation, still get instant gratification of seeing something working and parents won't have cost concerns because it's open source.  
+I have more than a month with HS students, they are not looking for careers yet, and he drops an f-bomb in there.  (Sorry that's a huge no-can-do with the kiddos) For their foundation I will probably continue to use [Jumpstart](http://www.jumpstartlab.com) and the Railsbridge curriculum as my core for them. They still start with a Ruby foundation, still get instant gratification of seeing something working, and parents won't have cost concerns because it's open source.  
 
 ## Will I use this with the adult RB alumni? 
 
