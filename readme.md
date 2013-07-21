@@ -28,12 +28,18 @@ If you have the extra $49 sitting around and you want to give it a whirl, go ahe
 If $49 is a stretch get in touch with me or one of the [Ruby Friends](http://www.github.com/rubyfriends/) because we have several free or open source resources to connect you to.  
 
 
-## Will I do this with the HS Students? 
+## Will I use this with the HS Students? 
 
 Well, more than likely no.  This is probably intended for adults anyway and most of the HS parents struggle to understand the need to learn web development, much less paying $49.  
 
-I have more than a month with HS students, they are not looking for careers yet, and he drops an f-bomb in there.  (Sorry that's a huge no-can-do with the kiddos) For their foundation I will probably continue to use [Jumpstart](http://www.jumpstartlab.com) and the Railsbridge curriculum as my core for them. They still start with a Ruby foundation, still get instant gratification of seeing something working, and parents won't have cost concerns because it's open source.  
+* I have more than a month with HS students 
+* They are not looking for careers yet 
+* He drops an f-bomb in there  (Sorry that's a huge no-can-do with the kiddos) 
+
+For their foundation I will probably continue to use [Jumpstart](http://www.jumpstartlab.com) and the Railsbridge curriculum as my core for them. They still start with a Ruby foundation, still get instant gratification of seeing something working, and parents won't have cost concerns because it's open source.  
 
 ## Will I use this with the adult RB alumni? 
 
 At the end of the workshop Railsbridge organizers provide several of the same resources OneMonthRails provides to keep learning.  It's really an individual thing.  See above on should I take this and read the disclaimer again.  
+
+Final Outcome: [OMR Review App](http://omr-review.herokuapp.com/)
