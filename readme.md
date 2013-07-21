@@ -4,11 +4,11 @@ Testing curriculum & tutorials for HS students and RB alumni
 
 ##Assessment
 
-* Disclaimer: It's made very clear early on that this is intented to reach a minimum viable product not convert students into software engineers and that's accurate
+* Disclaimer: It's made very clear early on that this is intented to reach a minimum viable product not convert students into software engineers and that's certainly accurate.
 
 * Instant Gratification: This reminds me very much of the outcome of  Railsbridge.  Students get exposed to several components of Rails, including heroku, git, etc, and a visual representation of their work live on the web. That spurs curiosity to learn more but certainly attendees are not ready to go it alone. There are lots of shortcuts that should make you want to deep dive into individual topics.
 
-* Don't go it alone: @Rubyfriends if you choose to do this pair up with a more seasoned ruby dev in the group to help you out if you hit a glitch or if there is something you need explained in depth.  There are several places that something could go wrong and I don't wnat you to be frustrated.  
+* Don't go it alone: @Rubyfriends if you choose to do this pair up with a more seasoned ruby dev in the group to help you out if you hit a glitch or if there is something you need explained in depth.  There are several places that something could go wrong and I don't want you to be frustrated.  
 Reach out and ask one of us.
 
 * Timeframe: Total time for me was about 4 hours and I just coded while the video played, I skipped some of the ends of the videos especially at the intro but they would be good for beginners to listen to if you choose to do this. One month should be sufficient to follow along. Railsbridge is usually finished over the course of 1 evening and 1 day so a month is doable.
