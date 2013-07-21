@@ -1,3 +1,0 @@
-# One Month Rails Test
-
-Testing out for students and RB alumni
