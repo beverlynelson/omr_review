@@ -19,7 +19,10 @@ Reach out and ask.
 
 I honestly can't answer that for you and everyone learns differently.  Sorry.  I do like the exposure to different aspects of development you will encounter but for some people this will be overwhelming because of all the new terminology.  I've worked with a lot of beginners at this point and some people really need more of the "why" it works rather than just the fact that it works.  I do like the end result application.  Let me reiterate what he says in the video - There are still many more skills to acquire so this will NOT make you a software engineer, it will give you a taste of the joy that is web development.
 
-If you have the extra $49 sitting around and you want to give it a whirl, go ahead.  If $49 is a stretch get in touch with me or one of the [Ruby Friends](http://www.github.com/rubyfriends/) because we have several free or open source resources to connect you to.  
+If you have the extra $49 sitting around and you want to give it a whirl, go ahead. If you want to build a prototype app for yourself this is probably a good exercise in seeing what developers encounter.
+
+If $49 is a stretch get in touch with me or one of the [Ruby Friends](http://www.github.com/rubyfriends/) because we have several free or open source resources to connect you to.  
+
 
 ## Will I do this with the HS Students? 
 
